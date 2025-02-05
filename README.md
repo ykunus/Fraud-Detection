@@ -54,8 +54,6 @@ This project implements and compares various models for fraud detection, includi
 - 🔹 Logistic Regression
 - 🌳 Decision Trees
 - 🔍 K-Nearest Neighbors (K-NN)
-- 🌲 Random Forest (if applicable)
-- 🤖 Neural Networks (if applicable)
 - 
 ## 📌 Key Insights 
 The notebook explores key fraud detection insights, such as:
