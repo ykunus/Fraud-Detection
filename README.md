@@ -19,7 +19,7 @@ or install the necessary libraries individually:
 ```bash
 pip install numpy pandas sklearn matplotlib seaborn imblearn
 ```
-##🚀 Usage
+## 🚀 Usage
 open the Jupyter Notebook and run the cells sequentially:
 ```bash
 jupyter notebook "Fraud Detection.ipynb"
